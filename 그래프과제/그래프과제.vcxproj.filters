@@ -15,36 +15,36 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mainn.c">
+    <ClCompile Include="소스 파일\mainn.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="insertion_sort.h">
+    <ClCompile Include="헤더 파일\insertion_sort.h">
       <Filter>헤더 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main.c">
+    <ClCompile Include="소스 파일\main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="print_array.h">
+    <ClInclude Include="헤더 파일\print_array.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="quick_sort.h">
+    <ClInclude Include="헤더 파일\quick_sort.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="selection_sort.h">
+    <ClInclude Include="헤더 파일\selection_sort.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="execution_time.h">
+    <ClInclude Include="헤더 파일\execution_time.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="generated_data.h">
+    <ClInclude Include="헤더 파일\generated_data.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="heap_sort.h">
+    <ClInclude Include="헤더 파일\heap_sort.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="merge_sort.h">
+    <ClInclude Include="헤더 파일\merge_sort.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
